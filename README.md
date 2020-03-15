@@ -1,1 +1,1 @@
-# prototype-53-ls
+# mycasa-3.0-template
